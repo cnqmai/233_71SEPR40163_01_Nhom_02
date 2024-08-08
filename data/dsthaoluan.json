@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "66a6f442b24b809fddd26698"
+  },
+  "ID": "POST2022000001",
+  "TenTopic": "Tầm quan trọng của việc đọc sách",
+  "ThoiGian": "2022-04-20T12:00:00Z",
+  "BinhLuan": [
+    {
+      "$oid": "66a6f385b24b809fddd2668d"
+    },
+    {
+      "$oid": "66a6f385b24b809fddd2668e"
+    }
+  ],
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f442b24b809fddd26699"
+  },
+  "ID": "POST2023000001",
+  "TenTopic": "Những cuốn sách hay nên đọc trong năm 2023",
+  "ThoiGian": "2023-08-10T12:00:00Z",
+  "BinhLuan": [
+    {
+      "$oid": "66a6f385b24b809fddd2668f"
+    },
+    {
+      "$oid": "66a6f385b24b809fddd26690"
+    }
+  ],
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f442b24b809fddd2669a"
+  },
+  "ID": "POST2024000001",
+  "TenTopic": "Các xu hướng đọc sách hiện nay",
+  "ThoiGian": "2024-05-15T12:00:00Z",
+  "BinhLuan": [
+    {
+      "$oid": "66a6f385b24b809fddd26691"
+    },
+    {
+      "$oid": "66a6f385b24b809fddd26692"
+    },
+    {
+      "$oid": "66a6f385b24b809fddd26693"
+    },
+    {
+      "$oid": "66af411fabaeb01e9c172113"
+    }
+  ],
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  }
+},
+{
+  "_id": {
+    "$oid": "66add66a46f634bdce98adfa"
+  },
+  "ID": "POST2022000002",
+  "TenTopic": "Tại sao phải đọc sách?",
+  "ThoiGian": "2022-01-12T12:00:00Z",
+  "BinhLuan": [
+    {
+      "$oid": "66af3a5bf21b1a64038367e0"
+    }
+  ],
+  "userId": {
+    "$oid": "66a8f058ea1e3496f21bca05"
+  }
+},
+{
+  "_id": {
+    "$oid": "66af2bf5ae25497b480318a8"
+  },
+  "ID": "POST2024000002",
+  "TenTopic": "post nè",
+  "ThoiGian": {
+    "$date": "2024-08-04T07:21:25.160Z"
+  },
+  "BinhLuan": [],
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af3004451c2827d9c18540"
+  },
+  "ID": "POST2024000003",
+  "TenTopic": "goo",
+  "ThoiGian": {
+    "$date": "2024-08-04T07:38:44.945Z"
+  },
+  "BinhLuan": [
+    {
+      "$oid": "66af35f4f21b1a64038362fd"
+    },
+    {
+      "$oid": "66af36def21b1a640383634c"
+    },
+    {
+      "$oid": "66af36f5f21b1a640383639b"
+    },
+    {
+      "$oid": "66af37cdf21b1a640383644a"
+    },
+    {
+      "$oid": "66af3841f21b1a6403836559"
+    },
+    {
+      "$oid": "66af38a8f21b1a64038365a8"
+    },
+    {
+      "$oid": "66af3982f21b1a640383663f"
+    },
+    {
+      "$oid": "66af3982f21b1a6403836646"
+    },
+    {
+      "$oid": "66af39adf21b1a6403836695"
+    },
+    {
+      "$oid": "66af39f7f21b1a6403836774"
+    },
+    {
+      "$oid": "66af3a3df21b1a64038367ab"
+    }
+  ],
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "__v": 0
+}]

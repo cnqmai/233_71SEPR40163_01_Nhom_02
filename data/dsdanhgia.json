@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66a6ebd287eebf4137d3d39a"
+  },
+  "ID": "REVIEW2023000001",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayViet": "2023-04-15T12:00:00Z",
+  "SoDiem": 5,
+  "NoiDung": "Cuốn sách này thật sự tuyệt vời, cốt truyện cuốn hút và nhân vật sinh động.",
+  "Sach": {
+    "$oid": "66a2834d3ca03988eea5f698"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6ebd287eebf4137d3d39b"
+  },
+  "ID": "REVIEW2022000001",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayViet": "2022-08-20T12:00:00Z",
+  "SoDiem": 4,
+  "NoiDung": "Một tác phẩm đáng đọc về tuổi thơ.",
+  "Sach": {
+    "$oid": "66a2834d3ca03988eea5f68b"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6ebd287eebf4137d3d39e"
+  },
+  "ID": "REVIEW2022000003",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayViet": "2022-07-20T12:00:00Z",
+  "SoDiem": 4,
+  "NoiDung": "Một câu chuyện cảm động về chiến tranh và tình người.",
+  "Sach": {
+    "$oid": "66a2834d3ca03988eea5f68b"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae88e09e8cecce79ef1240"
+  },
+  "ID": "REVIEW2024000001",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayViet": {
+    "$date": "2024-08-03T19:45:36.607Z"
+  },
+  "SoDiem": 1,
+  "Sach": {
+    "$oid": "66a2834d3ca03988eea5f68b"
+  },
+  "NoiDung": "dở",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ae88e49e8cecce79ef124d"
+  },
+  "ID": "REVIEW2024000002",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayViet": {
+    "$date": "2024-08-03T19:45:40.391Z"
+  },
+  "SoDiem": 1,
+  "Sach": {
+    "$oid": "66a2834d3ca03988eea5f68b"
+  },
+  "NoiDung": "ẹt",
+  "__v": 0
+}]

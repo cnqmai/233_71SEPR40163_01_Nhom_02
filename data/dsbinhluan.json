@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd2668d"
+  },
+  "ID": "COMMENT20240001",
+  "NoiDung": "Bài viết rất hay, mình học được nhiều điều mới.",
+  "NgayBL": "2024-06-13T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd26698"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd2668e"
+  },
+  "ID": "COMMENT20240002",
+  "NoiDung": "Cảm ơn tác giả đã chia sẻ thông tin hữu ích.",
+  "NgayBL": "2024-06-14T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd26698"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd2668f"
+  },
+  "ID": "COMMENT20240003",
+  "NoiDung": "Mình thấy bài viết này thực sự bổ ích và chi tiết.",
+  "NgayBL": "2024-06-15T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd26699"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd26690"
+  },
+  "ID": "COMMENT20240004",
+  "NoiDung": "Bài viết rất chi tiết và dễ hiểu, cảm ơn bạn!",
+  "NgayBL": "2024-06-16T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd26699"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd26691"
+  },
+  "ID": "COMMENT20240005",
+  "NoiDung": "Mình rất thích cách trình bày của bài viết này.",
+  "NgayBL": "2024-06-17T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f4a7b24b809fddd266a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd26692"
+  },
+  "ID": "COMMENT20240006",
+  "NoiDung": "Bài viết có nhiều thông tin mới lạ và hữu ích.",
+  "NgayBL": "2024-06-18T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd2669a"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a6f385b24b809fddd26693"
+  },
+  "ID": "COMMENT20240007",
+  "NoiDung": "Cảm ơn bạn đã chia sẻ, mình sẽ áp dụng ngay.",
+  "NgayBL": "2024-06-19T12:00:00Z",
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd2669a"
+  }
+},
+{
+  "_id": {
+    "$oid": "66af3a3df21b1a64038367ab"
+  },
+  "ID": "COMMENT20240008",
+  "NoiDung": "đi thôi",
+  "NgayBL": {
+    "$date": "2024-08-04T08:22:21.713Z"
+  },
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66af3004451c2827d9c18540"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af3a5bf21b1a64038367e0"
+  },
+  "ID": "COMMENT20240009",
+  "NoiDung": "tại thích",
+  "NgayBL": {
+    "$date": "2024-08-04T08:22:51.848Z"
+  },
+  "userId": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "postId": {
+    "$oid": "66add66a46f634bdce98adfa"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af411fabaeb01e9c172113"
+  },
+  "ID": "COMMENT20240010",
+  "NoiDung": "hay",
+  "NgayBL": {
+    "$date": "2024-08-04T08:51:43.076Z"
+  },
+  "userId": {
+    "$oid": "66a8f058ea1e3496f21bca05"
+  },
+  "postId": {
+    "$oid": "66a6f442b24b809fddd2669a"
+  },
+  "__v": 0
+}]

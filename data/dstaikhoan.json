@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "ID": "USER2024000001",
+  "TenTaiKhoan": "simplo",
+  "HoTen": "Simp Rất Lỏ",
+  "Email": "simplo@gmail.com",
+  "MatKhau": "$2b$10$3Jsp6VXHcL6D4f4rmUz8PO2y6D7WpiqCO/1Ie8gkBD9cGcBFa.ekq",
+  "NgaySinh": "{\"day\":\"\",\"month\":\"\",\"year\":\"\"}",
+  "GioiTinh": "Nam",
+  "GioiThieu": "Mệt quá muốn đi ngủ",
+  "ThanhPho": "Không biết",
+  "SoThich": [
+    "Không có"
+  ],
+  "AnhDaiDien": "USER2020000001.png",
+  "GiaTri": 1,
+  "Admin": 0,
+  "NhomQuanTri": [
+    {
+      "$oid": "66a6f8abb24b809fddd266b1"
+    },
+    {
+      "$oid": "66a7dd71bf475497dc10d1d3"
+    },
+    {
+      "$oid": "66a7e15cbf475497dc10d1ed"
+    },
+    {
+      "$oid": "66ad032489b3e095a96901f7"
+    },
+    {
+      "$oid": "66ad03f989b3e095a9690225"
+    }
+  ],
+  "MuonDoc": [
+    {
+      "$oid": "66a2834d3ca03988eea5f673"
+    },
+    {
+      "$oid": "66a2834d3ca03988eea5f678"
+    }
+  ],
+  "DangDoc": [
+    {
+      "$oid": "66a2834d3ca03988eea5f67a"
+    }
+  ],
+  "DaDoc": [
+    {
+      "$oid": "66a2834d3ca03988eea5f698"
+    },
+    {
+      "$oid": "66a2834d3ca03988eea5f68b"
+    }
+  ],
+  "NguoiTheoDoi": [
+    {
+      "$oid": "66afb350f09d995ebf3ad0d4"
+    },
+    {
+      "$oid": "66afb350f09d995ebf3ad0d5"
+    },
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    }
+  ],
+  "DangTheoDoi": [
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    }
+  ],
+  "NgayTao": {
+    "$date": "2024-07-29T00:33:28.925Z"
+  },
+  "__v": 5,
+  "NhomThamGia": [
+    {
+      "$oid": "66a6f8abb24b809fddd266b1"
+    },
+    {
+      "$oid": "66a7dd71bf475497dc10d1d3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a8f058ea1e3496f21bca05"
+  },
+  "ID": "USER2024000002",
+  "TenTaiKhoan": "cnqmai",
+  "HoTen": "cao ngọc quỳnh mai",
+  "Email": "cnqmai@gmail.com",
+  "MatKhau": "$2a$10$S0oo3cyyvXPGhsApTUBKKeJMQvyUKxeu33es4pTfdRn3cwNnsDrOm",
+  "NgaySinh": "",
+  "GioiTinh": "Nữ",
+  "GioiThieu": "người lười ham ngủ",
+  "ThanhPho": "TPHCM",
+  "SoThich": [
+    "Ngủ",
+    "Đọc truyện"
+  ],
+  "AnhDaiDien": "",
+  "GiaTri": 1,
+  "Admin": 0,
+  "NhomQuanTri": [],
+  "NhomThamGia": [
+    {
+      "$oid": "66a6f8abb24b809fddd266b1"
+    }
+  ],
+  "MuonDoc": [],
+  "DangDoc": [],
+  "DaDoc": [],
+  "NguoiTheoDoi": [
+    {
+      "$oid": "66afb350f09d995ebf3ad0d4"
+    },
+    {
+      "$oid": "66afb350f09d995ebf3ad0d5"
+    },
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "DangTheoDoi": [
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "NgayTao": {
+    "$date": "2024-07-30T13:53:28.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afb350f09d995ebf3ad0d4"
+  },
+  "ID": "USER2024000003",
+  "TenTaiKhoan": "ThuyAnh",
+  "HoTen": "Lưu Thúy Anh",
+  "Email": "ThuyAnh@gmail.com",
+  "MatKhau": "",
+  "NgaySinh": "",
+  "GioiTinh": "Nữ",
+  "GioiThieu": "",
+  "ThanhPho": "TPHCM",
+  "SoThich": [],
+  "AnhDaiDien": "",
+  "GiaTri": 1,
+  "Admin": 0,
+  "NhomQuanTri": [],
+  "NhomThamGia": [
+    {
+      "$oid": "66a6f8abb24b809fddd266b1"
+    },
+    {
+      "$oid": "66a7dd71bf475497dc10d1d3"
+    }
+  ],
+  "MuonDoc": [],
+  "DangDoc": [],
+  "DaDoc": [],
+  "NguoiTheoDoi": [
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    },
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "DangTheoDoi": [
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    },
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "NgayTao": {
+    "$date": "2024-07-30T13:53:28.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afb350f09d995ebf3ad0d5"
+  },
+  "ID": "USER2024000004",
+  "TenTaiKhoan": "MyTan",
+  "HoTen": "Quách Mỹ Tân",
+  "Email": "mytan@gmail.com",
+  "MatKhau": "",
+  "NgaySinh": "",
+  "GioiTinh": "Nữ",
+  "GioiThieu": "người hướng nội",
+  "ThanhPho": "TPHCM",
+  "SoThich": [
+    "Vẽ",
+    "Đọc truyện"
+  ],
+  "AnhDaiDien": "",
+  "GiaTri": 1,
+  "Admin": 0,
+  "NhomQuanTri": [],
+  "NhomThamGia": [
+    {
+      "$oid": "66a7dd71bf475497dc10d1d3"
+    }
+  ],
+  "MuonDoc": [],
+  "DangDoc": [],
+  "DaDoc": [],
+  "NguoiTheoDoi": [
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    },
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "DangTheoDoi": [
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    },
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    }
+  ],
+  "NgayTao": {
+    "$date": "2024-07-30T13:53:28.226Z"
+  },
+  "__v": 0
+}]

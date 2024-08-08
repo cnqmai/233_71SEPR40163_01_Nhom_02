@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6bc"
+  },
+  "ID": "GENRE001",
+  "TenTheLoai": "Bí ẩn"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6bd"
+  },
+  "ID": "GENRE002",
+  "TenTheLoai": "Du lịch"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6be"
+  },
+  "ID": "GENRE003",
+  "TenTheLoai": "Giật gân"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6bf"
+  },
+  "ID": "GENRE004",
+  "TenTheLoai": "Hài hước"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c0"
+  },
+  "ID": "GENRE005",
+  "TenTheLoai": "Hồi ký"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c1"
+  },
+  "ID": "GENRE006",
+  "TenTheLoai": "Hư cấu"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c2"
+  },
+  "ID": "GENRE007",
+  "TenTheLoai": "Khoa học"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c3"
+  },
+  "ID": "GENRE008",
+  "TenTheLoai": "Kinh doanh"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c4"
+  },
+  "ID": "GENRE009",
+  "TenTheLoai": "Kinh dị"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c5"
+  },
+  "ID": "GENRE010",
+  "TenTheLoai": "Kỳ ảo"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c6"
+  },
+  "ID": "GENRE011",
+  "TenTheLoai": "Lãng mạn"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c7"
+  },
+  "ID": "GENRE012",
+  "TenTheLoai": "Lịch sử"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c8"
+  },
+  "ID": "GENRE013",
+  "TenTheLoai": "Nghệ thuật"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6c9"
+  },
+  "ID": "GENRE014",
+  "TenTheLoai": "Phi hư cấu"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6ca"
+  },
+  "ID": "GENRE015",
+  "TenTheLoai": "Phiêu lưu"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6cb"
+  },
+  "ID": "GENRE016",
+  "TenTheLoai": "Siêu nhiên"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6cc"
+  },
+  "ID": "GENRE017",
+  "TenTheLoai": "Tiểu thuyết"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6cd"
+  },
+  "ID": "GENRE018",
+  "TenTheLoai": "Thiếu nhi"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6ce"
+  },
+  "ID": "GENRE019",
+  "TenTheLoai": "Thơ ca"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6cf"
+  },
+  "ID": "GENRE020",
+  "TenTheLoai": "Trinh thám"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6d0"
+  },
+  "ID": "GENRE021",
+  "TenTheLoai": "Văn học"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6d1"
+  },
+  "ID": "GENRE022",
+  "TenTheLoai": "Viễn tưởng"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6d2"
+  },
+  "ID": "GENRE023",
+  "TenTheLoai": "Truyện tranh"
+},
+{
+  "_id": {
+    "$oid": "66a2837c3ca03988eea5f6d3"
+  },
+  "ID": "GENRE024",
+  "TenTheLoai": "Triết học"
+}]

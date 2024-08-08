@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "66a6f8abb24b809fddd266b1"
+  },
+  "ID": "GROUP20240001",
+  "TenNhom": "Hội Những Người Thích Đọc",
+  "QuanTriVien": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "NgayTao": "2024-06-13T00:00:00.000Z",
+  "AnhDaiDien": "/GROUP20240001.jpg",
+  "GioiThieu": "Nơi giao lưu và chia sẻ những cuốn sách yêu thích.",
+  "GiaTri": 1,
+  "BaiDang": [
+    {
+      "$oid": "66a6f442b24b809fddd26698"
+    },
+    {
+      "$oid": "66a6f442b24b809fddd26699"
+    },
+    {
+      "$oid": "66a6f442b24b809fddd2669a"
+    },
+    {
+      "$oid": "66af3004451c2827d9c18540"
+    }
+  ],
+  "ThanhVien": [
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    },
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    }
+  ],
+  "QuyenRiengTu": "Công khai"
+},
+{
+  "_id": {
+    "$oid": "66a7dd71bf475497dc10d1d3"
+  },
+  "ID": "GROUP20240002",
+  "TenNhom": "khong",
+  "QuanTriVien": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "AnhDaiDien": "/DefaultGroup.png",
+  "GioiThieu": "biet",
+  "GiaTri": 1,
+  "QuyenRiengTu": "Công khai",
+  "BaiDang": [
+    {
+      "$oid": "66add66a46f634bdce98adfa"
+    }
+  ],
+  "ThanhVien": [
+    {
+      "$oid": "66a6e358a855f049d50d47c8"
+    },
+    {
+      "$oid": "66a8f058ea1e3496f21bca05"
+    }
+  ],
+  "NgayTao": {
+    "$date": "2024-07-29T18:20:33.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7e15cbf475497dc10d1ed"
+  },
+  "ID": "GROUP20240003",
+  "TenNhom": "không",
+  "QuanTriVien": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "AnhDaiDien": "/DefaultGroup.png",
+  "GioiThieu": "không có",
+  "GiaTri": 1,
+  "QuyenRiengTu": "Công khai",
+  "BaiDang": [],
+  "ThanhVien": [],
+  "NgayTao": {
+    "$date": "2024-07-29T18:37:16.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ad032489b3e095a96901f7"
+  },
+  "ID": "GROUP20240004",
+  "TenNhom": "Nhóm mới nè",
+  "QuanTriVien": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "AnhDaiDien": "/DefaultGroup.png",
+  "GioiThieu": "Nhóm này vui lắm vô đi",
+  "GiaTri": 1,
+  "QuyenRiengTu": "Riêng tư",
+  "BaiDang": [],
+  "ThanhVien": [],
+  "NgayTao": {
+    "$date": "2024-08-02T16:02:44.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ad03f989b3e095a9690225"
+  },
+  "ID": "GROUP20240005",
+  "TenNhom": "Em có nhớ anh không?",
+  "QuanTriVien": {
+    "$oid": "66a6e358a855f049d50d47c8"
+  },
+  "AnhDaiDien": "/DefaultGroup.png",
+  "GioiThieu": "Anh ngồi đây và trông mong",
+  "GiaTri": 1,
+  "QuyenRiengTu": "Riêng tư",
+  "BaiDang": [],
+  "ThanhVien": [],
+  "NgayTao": {
+    "$date": "2024-08-02T16:06:17.679Z"
+  },
+  "__v": 0
+}]
