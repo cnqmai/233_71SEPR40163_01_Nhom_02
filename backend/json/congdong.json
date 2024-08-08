@@ -1,0 +1,21 @@
+[
+   {
+     "ID": "GROUP20240001",
+     "TenNhom": "Hội Những Người Thích Đọc",
+     "QuanTriVien": "66a6e358a855f049d50d47c8", 
+     "SoThanhVien": 22,
+     "NgayTao": "2024-06-13T00:00:00.000Z", 
+     "AnhDaiDien": "/GROUP20240001.jpg",
+     "GioiThieu": "Hội Những Người Thích Đọc là nơi giao lưu và chia sẻ những cuốn sách yêu thích.",
+     "GiaTri": 1,
+     "BaiDang": [
+       "66a6f442b24b809fddd26698",
+       "66a6f442b24b809fddd26699",
+       "66a6f442b24b809fddd2669a"
+     ],
+     "ThanhVien": [
+       "66a6e358a855f049d50d47c8"
+     ]
+   }
+ ]
+ 

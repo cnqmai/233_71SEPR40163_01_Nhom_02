@@ -1,0 +1,98 @@
+[
+   {
+      "ID":"GENRE001",
+      "TenTheLoai":"Bí ẩn"
+   },
+   {
+      "ID":"GENRE002",
+      "TenTheLoai":"Du lịch"
+   },
+   {
+      "ID":"GENRE003",
+      "TenTheLoai":"Giật gân"
+   },
+   {
+      "ID":"GENRE004",
+      "TenTheLoai":"Hài hước"
+   },
+   {
+      "ID":"GENRE005",
+      "TenTheLoai":"Hồi ký"
+   },
+   {
+      "ID":"GENRE006",
+      "TenTheLoai":"Hư cấu"
+   },
+   {
+      "ID":"GENRE007",
+      "TenTheLoai":"Khoa học"
+   },
+   {
+      "ID":"GENRE008",
+      "TenTheLoai":"Kinh doanh"
+   },
+   {
+      "ID":"GENRE009",
+      "TenTheLoai":"Kinh dị"
+   },
+   {
+      "ID":"GENRE010",
+      "TenTheLoai":"Kỳ ảo"
+   },
+   {
+      "ID":"GENRE011",
+      "TenTheLoai":"Lãng mạn"
+   },
+   {
+      "ID":"GENRE012",
+      "TenTheLoai":"Lịch sử"
+   },
+   {
+      "ID":"GENRE013",
+      "TenTheLoai":"Nghệ thuật"
+   },
+   {
+      "ID":"GENRE014",
+      "TenTheLoai":"Phi hư cấu"
+   },
+   {
+      "ID":"GENRE015",
+      "TenTheLoai":"Phiêu lưu"
+   },
+   {
+      "ID":"GENRE016",
+      "TenTheLoai":"Siêu nhiên"
+   },
+   {
+      "ID":"GENRE017",
+      "TenTheLoai":"Tiểu thuyết"
+   },
+   {
+      "ID":"GENRE018",
+      "TenTheLoai":"Thiếu nhi"
+   },
+   {
+      "ID":"GENRE019",
+      "TenTheLoai":"Thơ ca"
+   },
+   {
+      "ID":"GENRE020",
+      "TenTheLoai":"Trinh thám"
+   },
+   {
+      "ID":"GENRE021",
+      "TenTheLoai":"Văn học"
+   },
+   {
+      "ID":"GENRE022",
+      "TenTheLoai":"Viễn tưởng"
+   },
+   {
+      "ID":"GENRE023",
+      "TenTheLoai":"Truyện tranh"
+   },
+   {
+      "ID":"GENRE024",
+      "TenTheLoai":"Triết học"
+   }
+]

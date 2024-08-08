@@ -1,0 +1,79 @@
+[
+   {
+      "ID":"COMMENT20240001",
+      "NoiDung":"Bài viết rất hay, mình học được nhiều điều mới.",
+      "NgayBL":"2024-06-13T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8",
+      "postId": "", 
+      "LuotThich":12
+   },
+   {
+      "ID":"COMMENT20240002",
+      "NoiDung":"Cảm ơn tác giả đã chia sẻ thông tin hữu ích.",
+      "NgayBL":"2024-06-14T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8",
+      "postId": "", 
+      "LuotThich":25
+   },
+   {
+      "ID":"COMMENT20240003",
+      "NoiDung":"Mình thấy bài viết này thực sự bổ ích và chi tiết.",
+      "NgayBL":"2024-06-15T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "postId": "",
+      "LuotThich":30
+   },
+   {
+      "ID":"COMMENT20240004",
+      "NoiDung":"Bài viết rất chi tiết và dễ hiểu, cảm ơn bạn!",
+      "NgayBL":"2024-06-16T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "postId": "",
+      "LuotThich":8
+   },
+   {
+      "ID":"COMMENT20240005",
+      "NoiDung":"Mình rất thích cách trình bày của bài viết này.",
+      "NgayBL":"2024-06-17T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "postId": "",
+      "LuotThich":15
+   },
+   {
+      "ID":"COMMENT20240006",
+      "NoiDung":"Bài viết có nhiều thông tin mới lạ và hữu ích.",
+      "NgayBL":"2024-06-18T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "postId": "",
+      "LuotThich":20
+   },
+   {
+      "ID":"COMMENT20240007",
+      "NoiDung":"Cảm ơn bạn đã chia sẻ, mình sẽ áp dụng ngay.",
+      "NgayBL":"2024-06-19T12:00:00Z",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "postId": "",
+      "LuotThich":18
+   },
+   {
+      "ID":"COMMENT20240008",
+      "NoiDung":"Bài viết này rất cần thiết cho công việc của mình.",
+      "NgayBL":"2024-06-20T12:00:00Z",
+      "postId": "",
+      "LuotThich":22
+   },
+   {
+      "ID":"COMMENT20240009",
+      "NoiDung":"Mình đã hiểu rõ hơn về vấn đề này nhờ bài viết của bạn.",
+      "NgayBL":"2024-06-21T12:00:00Z",
+      "postId": "",
+      "LuotThich":27
+   },
+   {
+      "ID":"COMMENT20240010",
+      "NoiDung":"Thông tin rất hữu ích và dễ hiểu, cảm ơn bạn nhiều.",
+      "NgayBL":"2024-06-22T12:00:00Z",
+      "postId": "",
+      "LuotThich":32
+   }
+]

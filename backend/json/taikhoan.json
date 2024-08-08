@@ -1,0 +1,21 @@
+[
+  {
+    "ID": "USER2024000002",
+    "TenTaiKhoan": "cnqmaicutenhatthegioi",
+    "MatKhau": "",
+    "HoTen": "Cao Ngọc Quỳnh Mai",
+    "Email": "cnqmai@gmail.com",
+    "NgaySinh": "11-08-2005",
+    "NgayTao": "20-05-2024",
+    "GioiTinh": "Nữ",
+    "GioiThieu": "Tôi là Flora.",
+    "ThanhPho": "Thành phố Hồ Chí Minh",
+    "SoThich": ["Ngủ", "Đọc sách", "Đọc truyện", "Coi phim"],
+    "AnhDaiDien": "/florachibi.jpg",
+    "GiaTri": 1,
+    "NhomQuanTri": ["Đọc Sách Mỗi Ngày"],
+    "MuonDoc": [],
+    "DangDoc": [],
+    "DaDoc": []
+  }
+]

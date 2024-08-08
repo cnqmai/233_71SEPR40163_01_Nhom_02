@@ -1,0 +1,56 @@
+[
+   {
+      "ID": "REVIEW2023000001",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2023-04-15T12:00:00Z",
+      "SoDiem": 5,
+      "SoLuotThich": 150,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Cuốn sách này thật sự tuyệt vời, cốt truyện cuốn hút và nhân vật sinh động."
+   },
+   {
+      "ID": "REVIEW2022000001",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2022-08-20T12:00:00Z",
+      "SoDiem": 4,
+      "SoLuotThich": 75,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Một tác phẩm đáng đọc về tuổi thơ và chiến tranh."
+   },
+   {
+      "ID": "REVIEW2023000002",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2023-01-05T12:00:00Z",
+      "SoDiem": 3,
+      "SoLuotThich": 50,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Câu chuyện nhẹ nhàng nhưng sâu sắc, đáng để suy ngẫm."
+   },
+   {
+      "ID": "REVIEW2022000002",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2022-03-12T12:00:00Z",
+      "SoDiem": 5,
+      "SoLuotThich": 200,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Cuốn sách kinh điển về nghệ thuật giao tiếp và thành công."
+   },
+   {
+      "ID": "REVIEW2022000003",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2022-07-20T12:00:00Z",
+      "SoDiem": 4,
+      "SoLuotThich": 85,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Một câu chuyện cảm động về chiến tranh và tình người."
+   },
+   {
+      "ID": "REVIEW2023000003",
+      "userId": "66a6e358a855f049d50d47c8", 
+      "NgayViet": "2023-11-30T12:00:00Z",
+      "SoDiem": 2,
+      "SoLuotThich": 30,
+      "TenSach": "Mắt Biếc",
+      "NoiDung": "Quá dài và phức tạp, không phù hợp với tôi."
+   }
+]

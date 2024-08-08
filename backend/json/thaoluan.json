@@ -1,0 +1,33 @@
+[
+   {
+      "ID": "POST2022000001",
+      "TenTopic": "Tầm quan trọng của việc đọc sách",
+      "ThoiGian": "2022-04-20T12:00:00Z",
+      "BinhLuan": [
+         "66a6f385b24b809fddd2668d",
+         "66a6f385b24b809fddd2668e"
+      ],
+      "userId": "66a6e358a855f049d50d47c8"
+   },
+   {
+      "ID": "POST2023000001",
+      "TenTopic": "Những cuốn sách hay nên đọc trong năm 2023",
+      "ThoiGian": "2023-08-10T12:00:00Z",
+      "BinhLuan": [
+         "66a6f385b24b809fddd2668f",
+         "66a6f385b24b809fddd26690"
+      ],
+      "userId": "66a6e358a855f049d50d47c8"
+   },
+   {
+      "ID": "POST2024000001",
+      "TenTopic": "Các xu hướng đọc sách hiện nay",
+      "ThoiGian": "2024-05-15T12:00:00Z",
+      "BinhLuan": [
+         "66a6f385b24b809fddd26691",
+         "66a6f385b24b809fddd26692",
+         "66a6f385b24b809fddd26693"
+      ],
+      "userId": "66a6e358a855f049d50d47c8"
+   }
+]
