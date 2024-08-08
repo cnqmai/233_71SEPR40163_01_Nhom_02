@@ -1,0 +1,389 @@
+.bookaboo1 {
+  width: fit-content;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  height: 60px;
+  flex-shrink: 0;
+}
+.bookaboo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 50px;
+}
+.khmPh {
+  width: 105px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.khmPhWrapper {
+  width: 278px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px 12px 0px 0px;
+  background-color: #4c6a70;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 85px;
+  box-sizing: border-box;
+  color: #fff;
+}
+.cngNg {
+  width: 123px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.cngNgWrapper {
+  width: 278px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px 12px 0px 0px;
+  background-color: #fff;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 70px;
+  box-sizing: border-box;
+}
+.tiKhon {
+  width: 107px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tiKhonWrapper {
+  width: 278px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px 12px 0px 0px;
+  background-color: #fff;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.menu {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px 10px;
+  gap: 10px;
+  text-align: justify;
+  font-size: 20px;
+  font-family: Raleway;
+}
+.topnav {
+  width: 100%;
+  background-color: #faf6ef;
+  border-bottom: 2px solid #4c6a70;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0;
+  font-size: 40px;
+  font-family: 'Noto Serif';
+}
+.harukiMurakami {
+  align-self: stretch;
+  position: relative;
+  font-size: 96px;
+  font-weight: 500;
+  font-family: 'Noto Serif';
+}
+.twifMurakami1Icon {
+  width: 579px;
+  position: relative;
+  height: 737px;
+  object-fit: cover;
+}
+.kyotoJapan {
+  margin: 0;
+}
+.kyotoJapanJanuaryContainer {
+  position: absolute;
+  top: 0px;
+  left: 177px;
+  line-height: 150%;
+}
+.bornIn {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.kyotoJapanJanuary121949Parent {
+  width: 298px;
+  position: relative;
+  height: 48px;
+}
+.httpwwwharukimurakamicom {
+  position: absolute;
+  top: 0px;
+  left: 179px;
+  line-height: 150%;
+  color: inherit;
+  text-decoration: none;
+}
+.website {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 92px;
+  height: 23px;
+}
+.httpwwwharukimurakamicomParent {
+  width: 423px;
+  position: relative;
+  height: 24px;
+}
+.fictionSurrealismMagicalR {
+  position: absolute;
+  top: 0px;
+  left: 178px;
+  line-height: 150%;
+}
+.genre {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 69px;
+  height: 22px;
+}
+.fictionSurrealismMagicalRParent {
+  width: 442px;
+  position: relative;
+  height: 24px;
+}
+.authorsInfo {
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: left;
+}
+.a {
+  color: inherit;
+}
+.murakamiHarukiJapaneseContainer {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  height: fit-content;
+}
+.description {
+  width: 780px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: justify;
+}
+.thngTinTcGi {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 250px;
+  gap: 50px;
+}
+.tcPhm1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.schA {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.schAWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.schB {
+  position: relative;
+  font-weight: 500;
+}
+.danhSch {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.rungnauyCover1Icon {
+  width: 217px;
+  position: relative;
+  border-radius: 0px 20px 20px 0px;
+  height: 345px;
+  object-fit: cover;
+}
+.rngNaUy {
+  align-self: stretch;
+  position: relative;
+}
+.harukiMurakami1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: left;
+}
+.rngNaUyParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.toruWatanabeMt {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Raleway;
+  display: inline-block;
+  height: 300px;
+  flex-shrink: 0;
+}
+.frameParent {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.bookCard {
+  width: 699px;
+  box-shadow: -2px 0px 4px rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 50px;
+  box-sizing: border-box;
+  gap: 40px;
+  text-align: justify;
+  font-size: 40px;
+  font-family: 'Noto Serif';
+}
+.thngTin {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  font-size: 32px;
+}
+.tcPhm {
+  align-self: stretch;
+  height: 610px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px 100px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+}
+.body {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 50px 0px 100px;
+  gap: 100px;
+  text-align: center;
+}
+.nnTngDnh {
+  position: relative;
+  font-size: 20px;
+  line-height: 150%;
+  font-family: Raleway;
+  text-align: center;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 96px;
+  font-family: 'Noto Serif';
+}
+.vChngTi {
+  position: relative;
+  line-height: 150%;
+}
+.link {
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.footer {
+  align-self: stretch;
+  background-color: #faf5ef;
+  border-top: 2px solid #4c6a70;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 50px 100px;
+  gap: 20px;
+}
+.tcGi {
+  width: 100%;
+  position: relative;
+  background-color: #faf6ef;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Raleway;
+}

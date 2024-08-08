@@ -1,0 +1,237 @@
+body {
+  overflow-x: hidden;
+}
+.dLiuTc {
+  position: relative;
+  font-weight: 500;
+}
+.textbox {
+  border: none;
+  background-color: transparent;
+  font-family: var(--paragragh);
+  font-size: var(--heading-4-size);
+  outline: none;
+  flex: 1;
+  border-bottom: 1px solid var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-black);
+  resize: none; 
+  height: 25px;
+  padding: 0;
+}
+.searchIcon {
+  width: 30px;
+  position: relative;
+  height: 30px;
+  object-fit: cover;
+}
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.searching {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.dLiuTcGiParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 100px;
+}
+
+.th {
+  padding-bottom: var(--padding-3xs);
+  text-align: left;
+}
+
+.stt {
+  width: 50px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+.id {
+  width: 100px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+.tnTcGi {
+  width: 250px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+.ngSinh{
+  width: 100px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+.niSinh {
+  width: 200px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+.ngThem {
+  width: 100px;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+}
+
+.text {
+  width: 100%;
+  font-size: var(--paragragh-size);
+  line-height: 150%;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.table {
+  align-self: stretch;
+  empty-cells: show;
+  border-style: none; 
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.xaTtC {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-crimson);
+  text-align: left;
+  display: inline-block;
+}
+.deleteButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-56xl);
+}
+.arrowBackIosIcon {
+  position: absolute;
+  height: 83.33%;
+  width: 49.17%;
+  top: 8.33%;
+  right: 50.83%;
+  bottom: 8.33%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.back {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.page {
+  position: relative;
+  line-height: 150%;
+}
+.arrowForwardIosIcon {
+  position: absolute;
+  height: 83.33%;
+  width: 49.17%;
+  top: 8.33%;
+  right: 24.58%;
+  bottom: 8.33%;
+  left: 26.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pagenav {
+  flex: 1;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+}
+.buttoncon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--paragragh-size);
+}
+.container1 {
+  align-self: stretch;
+  width: calc(100% - 300px);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl);
+  box-sizing: border-box;
+  gap: var(--gap-31xl);
+  text-align: left;
+  font-size: var(--heading-2-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+.container {
+  margin-top: 70px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 1000px;
+  width: 100vw;
+}
+.adminauthorall {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.authorImage {
+  width: 100px;
+  height: 150px;
+}

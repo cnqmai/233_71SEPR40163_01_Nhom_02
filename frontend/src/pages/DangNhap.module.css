@@ -1,0 +1,445 @@
+.bookaboo1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.bookaboo {
+  align-self: stretch;
+  position: relative;
+  height: 54px;
+}
+.logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dangnhap {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-2-size);
+  font-weight: 500;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: center;
+}
+.tnTiKhonemail {
+  width: 100%;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.inputname {
+  border: none;
+  outline: none;
+  font-family: var(--heading-4);
+  font-size: var(--heading-4-size);
+  background-color: transparent;
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  color: var(--color-gray-700);
+}
+.nameemail {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mtKhu {
+  width: 100%;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.inpupass {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) 0px var(--padding-3xs) var(--padding-8xs);
+  font-family: var(--heading-4);
+  font-size: var(--heading-4-size);
+  color: var(--color-gray-700);
+  width: auto;
+  height: auto;
+  gap: var(--gap-3xs);
+}
+.inpupass:hover {
+  display: flex;
+  align-self: stretch;
+  width: auto;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) 0px var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+}
+.qunMtKhu {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-lightgoldenrodyellow);
+  text-align: left;
+  display: inline-block;
+}
+.qunMtKhu:hover{
+  color: #F2F2DE;
+}
+.qunMtKhu:active {
+  color: var(--color-lightgoldenrodyellow);
+}
+.forgetpasspage {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.ngNhp {
+  flex: 1;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-gray-201);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 18px;
+}
+.ngNhpWrapper {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  background-color: var(--color-whitesmoke);
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ngNhpWrapper:hover{
+  background-color: var( --color-gray-600);
+}
+
+.ngNhpWrapper:active {
+  background-color: var(--color-whitesmoke);
+}
+.buttonsignin {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+}
+.inUpSignIn {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+  gap: var(--gap-xl);
+}
+.quesSignInChild {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1.7px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.chaCTi {
+  width: 182px;
+  position: relative;
+  font-size: var(--heading-4-size);
+  line-height: 150%;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.ngK {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-lightgoldenrodyellow);
+  text-align: center;
+  cursor: pointer;
+}
+.ngK:hover{
+  color: #F2F2DE;
+}
+.ngK:active {
+  color: var(--color-lightgoldenrodyellow);
+}
+.signuppage {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.questionRegister {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.quesSignIn {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+  gap: var(--gap-3xs);
+}
+.signIn {
+  align-self: stretch;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0px;
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
+.formSignIn {
+  margin: 0;
+  width: 516.5px;
+  box-shadow:
+    0px 4px 4px rgba(0, 0, 0, 0.25),
+    0px 1px 3px rgba(255, 255, 255, 0.25) inset;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslategray-600);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  height: auto;
+  gap: var(--gap-xl);
+}
+.formSignIn:hover {
+  background-color: var(--color-darkslategray-600);
+  display: flex;
+  width: 516.5px;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  border-radius: var(--br-6xl);
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  box-shadow:
+    0px 4px 4px rgba(0, 0, 0, 0.25),
+    0px 1px 3px rgba(255, 255, 255, 0.25) inset;
+}
+.none {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.dangNhap {
+  width: 100%;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl) var(--padding-131xl);
+  box-sizing: border-box;
+  gap: var(--gap-36xl);
+  background-image: url("/public/dang-nhap@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--heading-1);
+}
+
+@media screen and (max-width: 1200px) {
+  .bookaboo {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .logo {
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .dangnhap {
+    font-size: var(--font-size-21xl);
+  }
+
+  .tnTiKhonemail {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .inUpSignIn {
+    align-self: stretch;
+    width: auto;
+    height: auto;
+  }
+
+  .formSignIn {
+    width: 516px;
+    height: auto;
+  }
+
+  .dangNhap {
+    gap: var(--gap-3xs);
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .dangnhap {
+    font-size: var(--heading-3-size);
+  }
+
+  .ngK {
+    font-size: var(--heading-4-size);
+  }
+
+  .questionRegister {
+    display: flex;
+    gap: var(--gap-0);
+  }
+
+  .formSignIn {
+    flex: 1;
+    height: auto;
+    gap: var(--gap-11xl);
+    padding-right: 0px;
+    box-sizing: border-box;
+  }
+
+  .none {
+    align-self: stretch;
+    width: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .dangNhap {
+    gap: 1px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-31xl) var(--padding-66xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .dangnhap {
+    font-size: var(--font-size-lg);
+  }
+
+  .tnTiKhonemail {
+    font-size: var(--font-size-sm);
+  }
+
+  .qunMtKhu {
+    font-size: var(--font-size-sm);
+  }
+
+  .chaCTi {
+    font-size: var(--font-size-xs);
+  }
+
+  .ngK {
+    font-size: var(--font-size-xs);
+  }
+
+  .signuppage {
+    flex: 1;
+  }
+
+  .formSignIn {
+    width: auto;
+    align-self: stretch;
+    height: auto;
+    gap: var(--gap-xl);
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: var(--padding-8xs);
+    padding-right: var(--padding-8xs);
+    box-sizing: border-box;
+  }
+
+  .none {
+    align-self: stretch;
+    width: auto;
+    flex: 1;
+  }
+
+  .dangNhap {
+    gap: var(--gap-31xl);
+    padding: var(--padding-6xl) var(--padding-36xl);
+    box-sizing: border-box;
+  }
+}

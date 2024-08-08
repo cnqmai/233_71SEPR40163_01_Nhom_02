@@ -1,0 +1,43 @@
+.tcPhm1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.tcPhm,
+.thngTin {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.thngTin {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  text-align: justify;
+  font-size: var(--font-size-21xl);
+  font-family: var(--heading-1);
+}
+.tcPhm {
+  width: 100vw;
+  height: fit-content;
+  flex-direction: column;
+  gap: 25px;
+  padding: 0 var(--padding-81xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--heading-2-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+@media screen and (max-width: 1000px){
+  .thngTin{
+    flex-direction: column;
+    gap: 50px;
+  }
+  .tcPhm{
+    padding: 0 10%;
+  }
+}

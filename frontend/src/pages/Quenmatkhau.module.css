@@ -1,0 +1,229 @@
+.bookaboo1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.bookaboo {
+  width: 191px;
+  position: relative;
+  height: 54px;
+  z-index: 1;
+}
+.qunMtKhu {
+  margin: 0;
+}
+.quenmatkhau1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-inter);
+  color: #1b4561;
+  text-align: center;
+  display: inline-block;
+  height: 50px;
+  flex-shrink: 0;
+}
+.email {
+  width: 477px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: #1a4561;
+  text-align: left;
+  display: inline-block;
+}
+.abcgmailcom {
+  border: none;
+  outline: none;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-lg);
+  background-color: transparent;
+  flex: 1;
+  position: relative;
+  color: rgba(0, 0, 0, 0.85);
+  text-align: left;
+}
+.abcgmailcomWrapper {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0px var(--padding-3xs) var(--padding-8xs);
+}
+.emailquenmatkhau {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.hy {
+  flex: 1;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 21px;
+}
+.btnhuy {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-2xs) var(--padding-base);
+  background-color: var(--color-darkslategray-700);
+  align-self: stretch;
+  width: 103px;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.btnhuy:hover{
+  background-color:#496972;
+}
+.btnhuy:active {
+  background-color: var(--color-darkslategray-700);
+}
+.tipTc {
+  flex: 1;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  height: 23px;
+}
+.tipTc:hover {
+  font-family: var(--font-inter);
+  font-size: var(--heading-4-size);
+  text-align: center;
+  color: var(--color-white);
+  display: flex;
+  flex: 1;
+  height: 23px;
+}
+.btntieptuc {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-2xs) var(--padding-base);
+  background-color: var(--color-darkslategray-700);
+  align-self: stretch;
+  width: 168px;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.btntieptuc:hover{
+  background-color:#496972;
+}
+.btntieptuc:active {
+  background-color: var(--color-darkslategray-700);
+}
+.buttonHuyTt {
+  width: 477px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+}
+.formquenmatkhau {
+  margin: 0;
+  box-shadow: 0px 1px 3px rgba(255, 255, 255, 0.25) inset;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-600);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-16xl) var(--padding-18xl);
+  gap: var(--gap-xl);
+}
+.formnhapemailquenmk {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  z-index: 0;
+}
+.quenmatkhau {
+  width: 100%;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) var(--padding-131xl);
+  box-sizing: border-box;
+  gap: var(--gap-36xl);
+  background-image: url("/public/quenmatkhau@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--heading-1);
+}
+
+@media screen and (max-width: 1200px) {
+  .emailquenmatkhau {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .formquenmatkhau {
+    height: auto;
+  }
+
+  .formnhapemailquenmk {
+    align-self: stretch;
+    width: auto;
+    flex: 1;
+  }
+
+  .quenmatkhau {
+    gap: var(--gap-36xl);
+  }
+}
+@media screen and (max-width: 960px) {
+  .emailquenmatkhau {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .buttonHuyTt {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .formquenmatkhau {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .formnhapemailquenmk {
+    height: auto;
+  }
+}

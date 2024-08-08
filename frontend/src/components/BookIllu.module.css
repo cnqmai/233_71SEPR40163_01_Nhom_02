@@ -1,0 +1,91 @@
+.title {
+  position: relative;
+  font-size: var(--heading-4-size);
+  line-height: 125%;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+  text-align: justify;
+}
+.bookWrapper1,
+.bookWrapper2,
+.bookWrapper3,
+.bookWrapper4,
+.bookWrapper5,
+.bookWrapper6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: auto;
+  min-height: 30px;
+  max-height: fit-content;
+}
+.bookWrapper1 {
+  background-color: #fbe79f;
+  width: 270px;
+}
+.bookWrapper2 {
+  background-color: #f7b9b9;
+  width: 310px;
+}
+.bookWrapper3 {
+  background-color: #99cccc;
+  width: 290px;
+}
+.bookWrapper4 {
+  background-color: #7f9db9;
+  width: 350px;
+}
+.bookWrapper5 {
+  background-color: #c4cacd;
+  width: 320px;
+}
+.bookWrapper6 {
+  background-color: #f0b38f;
+  width: 380px;
+}
+.bookWrapper1:hover,
+.bookWrapper2:hover,
+.bookWrapper3:hover,
+.bookWrapper4:hover,
+.bookWrapper5:hover,
+.bookWrapper6:hover {
+  border: 2px solid var(--color-black);
+}
+.active {
+  border: 2px solid var(--color-black);
+}
+.active .title {
+  font-weight: bold;
+}
+.bookIllu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 1000px) {
+  .bookWrapper1 {
+    width: 180px;
+  }
+  .bookWrapper2 {
+    width: 240px;
+  }
+  .bookWrapper3 {
+    width: 220px;
+  }
+  .bookWrapper4 {
+    width: 270px;
+  }
+  .bookWrapper5 {
+    width: 250px;
+  }
+  .bookWrapper6 {
+    width: 290px;
+  }
+}

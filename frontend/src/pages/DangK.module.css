@@ -1,0 +1,372 @@
+.bookaboo1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 50px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.bookaboo {
+  align-self: stretch;
+  position: relative;
+  height: 54px;
+}
+.logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dangky {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-2-size);
+  font-weight: 500;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: center;
+}
+.tnTiKhon {
+  width: 477px;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.frameChild {
+  border: none;
+  outline: none;
+  font-family: var(--heading-4);
+  font-size: var(--heading-4-size);
+  background-color: transparent;
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  color: var(--color-gray-700);
+}
+.tnTiKhonParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.hVTnParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  gap: var(--gap-0);
+}
+.hVTnParent:hover {
+  display: flex;
+  align-self: stretch;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameInput {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  font-family: var(--heading-4);
+  font-size: var(--heading-4-size);
+  color: var(--color-gray-700);
+}
+.inputsignup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+  gap: var(--gap-xl);
+}
+.ngK {
+  flex: 1;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-gray-201);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 18px;
+}
+.ngKWrapper {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  background-color: var(--color-whitesmoke);
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ngKWrapper:hover{
+  background-color: var( --color-gray-600);
+}
+.ngKWrapper:active {
+  background-color: var(--color-whitesmoke);
+}
+.inUpSignUpInner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+}
+.inUpSignUp {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.lineIcon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 2.1px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.cTiKhon {
+  width: 182px;
+  position: relative;
+  font-size: var(--heading-4-size);
+  line-height: 150%;
+  font-family: var(--heading-4);
+  color: var(--color-white);
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.ngNhp {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--heading-4);
+  color: var(--color-lightgoldenrodyellow);
+  text-align: center;
+}
+.ngNhp:hover {
+  color:#F2F2DE;
+}
+.ngNhp:active {
+  color: var(--color-lightgoldenrodyellow);
+}
+.ngNhpWrapper {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cTiKhonParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.lineParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xl);
+  gap: var(--gap-3xs);
+}
+.signUp {
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.formSignUp {
+  margin: 0;
+  box-shadow:
+    0px 4px 4px rgba(0, 0, 0, 0.25),
+    0px 1px 3px rgba(255, 255, 255, 0.25) inset;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslategray-600);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-xl);
+}
+.formSignUp:hover {
+  background-color: var(--color-darkslategray-600);
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: var(--br-6xl);
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  box-shadow:
+    0px 4px 4px rgba(0, 0, 0, 0.25),
+    0px 1px 3px rgba(255, 255, 255, 0.25) inset;
+}
+.none1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.dangKy {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-36xl) var(--padding-131xl) var(--padding-101xl);
+  box-sizing: border-box;
+  gap: var(--gap-36xl);
+  background-image: url("/public/dang-ky@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 100vh;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--heading-1);
+}
+
+@media screen and (max-width: 1200px) {
+  .logo {
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .dangky {
+    font-size: var(--font-size-21xl);
+    align-self: stretch;
+    width: auto;
+  }
+
+  .tnTiKhonParent {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .hVTnParent {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .inputsignup {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .formSignUp {
+    width: auto;
+    align-self: unset;
+  }
+
+  .dangKy {
+    gap: var(--gap-36xl);
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .dangky {
+    font-size: var(--heading-3-size);
+  }
+
+  .tnTiKhon {
+    font-size: var(--font-size-lg);
+  }
+
+  .signUp {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .formSignUp {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .dangKy {
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding-left: var(--padding-66xl);
+    padding-right: var(--padding-66xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .formSignUp {
+    gap: var(--gap-3xs);
+    padding-left: 0px;
+    padding-right: 0px;
+    box-sizing: border-box;
+  }
+
+  .none1 {
+    align-self: stretch;
+    width: auto;
+    flex: 1;
+  }
+}

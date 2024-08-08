@@ -1,0 +1,284 @@
+.toNhm {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: fit-content;
+  flex-shrink: 0;
+}
+.avatarChild {
+  width: 150px;
+  position: relative;
+  border-radius: 50%;
+  height: 150px;
+  object-fit: cover;
+  z-index: 0;
+}
+.iconEdit {
+  width: 30px;
+  margin: 0 !important;
+  position: absolute;
+  top: 120px;
+  left: 120px;
+  border-radius: var(--br-341xl);
+  background-color: var(--color-cadetblue);
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.iconEdit:hover {
+  background-color: var(--color-cadetblue-100);
+}
+.avatar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+}
+.tnNhm {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-darkslategray-300);
+  text-align: left;
+}
+.textbox {
+  border: 1px solid var(--color-cadetblue);
+  outline: none;
+  background-color: var(--color-white);
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  height: 35px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  font-family: var(--paragragh);
+  font-weight: 600;
+  font-size: var(--paragragh-size);
+  color: var(--color-black);
+}
+.tnNhmParent {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.giiThiu1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-darkslategray-200);
+  text-align: left;
+}
+.textbox1 {
+  border: 1px solid var(--color-cadetblue);
+  background-color: var(--color-white);
+  outline: none;
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  height: 109px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  font-family: var(--paragragh);
+  font-weight: 600;
+  font-size: var(--heading-4-size);
+  color: var(--color-black);
+}
+.giiThiu {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0px;
+  gap: var(--gap-mini);
+}
+.chnQuynRing {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-darkslategray-200);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 42px;
+  flex-shrink: 0;
+}
+.textbox2 {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cadetblue);
+  box-sizing: border-box;
+  height: 35px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.info {
+  margin: 0;
+  align-self: stretch;
+  height: auto;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-base) 0px;
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+}
+.title {
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-weight: 600;
+  font-family: var(--paragragh);
+  color: var(--color-black);
+  text-align: right;
+}
+.button1 {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-300);
+  padding: var(--padding-3xs) 0px;
+  background-color: var(--color-white);
+  width: 201px;
+  border-radius: var(--br-11xl);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.inputprofile {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl);
+  gap: var(--gap-6xl);
+}
+.body {
+  margin-top: 70px;
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 50px 250px;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.bookaboo2 {
+  position: relative;
+  font-weight: 500;
+}
+.nnTngDnh {
+  position: relative;
+  font-size: var(--heading-4-size);
+  line-height: 150%;
+  font-family: var(--paragragh);
+  text-align: center;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--heading-1-size);
+  font-family: var(--heading-1);
+}
+.vChngTi {
+  position: relative;
+  line-height: 150%;
+}
+.link {
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.footer {
+  align-self: stretch;
+  background-color: var(--white);
+  border-top: 2px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  height: 356px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) var(--padding-81xl);
+  gap: var(--gap-xl);
+  font-size: var(--paragragh-size);
+}
+.groupcreat {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+
+@media screen and (max-width: 960px) {
+  .body {
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 656px) {
+  .body {
+    flex: 1;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}

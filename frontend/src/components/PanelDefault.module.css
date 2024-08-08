@@ -1,0 +1,190 @@
+.book5Icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  z-index: 1;
+}
+.sch2 {
+  position: relative;
+  text-transform: uppercase;
+  z-index: 0;
+}
+.sch1 {
+  align-self: stretch;
+  height: fit-content;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-31xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.ttC1 {
+  position: relative;
+}
+.ttC {
+  align-self: stretch;
+  height: fit-content;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-66xl);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.sch {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 4;
+}
+.faceIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.tcGi2 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.ttC2 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-66xl);
+  cursor: pointer;
+}
+.tcGi {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 3;
+}
+.tiKhon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.nhm {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.xa {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-31xl);
+  gap: var(--gap-3xs);
+  cursor: pointer;
+}
+.sch4 {
+  position: relative;
+  font-size: var(--heading-4-size);
+  font-family: var(--paragragh);
+  color: var(--color-black);
+  text-align: left;
+}
+.sch3 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-3xs) var(--padding-66xl);
+  background-color: transparent;
+  width: 300px;
+  height: fit-content;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.xaGnY {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.list {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.paneldefault {
+  align-self: stretch;
+  width: 300px;
+  background-color: var(--color-gray-300);
+  border-right: 2px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) 0px;
+  z-index: 0;
+  text-align: left;
+  font-size: var(--heading-4-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+  transition: width 0.3s ease;
+  position: relative;
+}
+.paneldefault.collapsed {
+  width: 50px;
+}
+
+.toggleButton {
+  position: absolute;
+  top: 20px;
+  right: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--color-darkslategray-200);
+  transition: color 0.3s ease;
+  z-index: 2;
+  padding: 5px;
+  border:  2px solid rgba(76, 106, 112, 0.5);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  transform: translateX(50%);
+}
+
+.toggleButton:hover {
+  color: var(--color-crimson);
+}

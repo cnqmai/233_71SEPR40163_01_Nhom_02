@@ -1,0 +1,197 @@
+.logo {
+  margin: 0;
+  width: fit-content;
+  position: relative;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  flex-shrink: 0;
+}
+
+.bookaboo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) 0px;
+}
+
+.title {
+  position: relative;
+  font-weight: 600;
+}
+
+.heading {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  width: 200px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--corner-medium) var(--corner-medium) 0px 0px;
+  background-color: var(--color-white);
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 0px;
+  box-sizing: border-box;
+  transition: ease-in-out 0.1s;
+}
+
+.buttonFocus {
+  width: 200px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--corner-medium) var(--corner-medium) 0px 0px;
+  background-color: var(--color-dimgray-100);
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 0px;
+  box-sizing: border-box;
+  color: var(--color-white);
+}
+
+.button:hover {
+  width: 200px;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--corner-medium) var(--corner-medium) 0px 0px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 0px;
+  box-sizing: border-box;
+}
+
+.logo:hover,
+.button:hover,
+.buttonFocus:hover {
+  cursor: pointer;
+}
+
+.menu {
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px var(--padding-3xs);
+  gap: var(--gap-3xs);
+  text-align: justify;
+  font-size: var(--heading-4-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+
+.topnav {
+  align-self: stretch;
+  background-color: var(--color-floralwhite);
+  border-bottom: 2px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0px 0px 0px var(--padding-81xl);
+  width: 100%;
+  height: 70px;
+  gap: var(--gap-430xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--heading-1);
+  position: fixed;
+  z-index: 999;
+}
+
+.hamburger {
+  display: none;
+  font-size: 25px;
+  cursor: pointer;
+  position: absolute;
+  right: 30px;
+  top: 22px;
+  z-index: 1001;
+}
+
+/* Add new styles for the dropdown menu */
+.DButton {
+  color: var(--color-black);
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 0px;
+}
+
+.DButtonFocus {
+  background-color: var(--color-dimgray-100);
+  color: var(--color-white);
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 0px;
+}
+
+.DButton:hover {
+  background-color: var(--color-darkslategray-600);
+}
+
+.dropdownMenu {
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  background-color: var(--color-floralwhite);
+  border-bottom: 2px solid var(--color-dimgray-100);
+  z-index: 1000;
+  text-align: justify;
+  font-size: var(--heading-4-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+
+.menuOpen {
+  display: flex;
+}
+
+/* Hide the menu and show the hamburger menu on smaller screens */
+@media (max-width: 950px) {
+  .menu {
+    display: none;
+  }
+
+  .topnav{
+    padding-left: 30px;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .dropdownMenu {
+    display: none;
+  }
+
+  .menuOpen {
+    display: flex;
+  }
+}

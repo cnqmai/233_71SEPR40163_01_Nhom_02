@@ -1,0 +1,148 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+p{
+  margin: 0;
+}
+
+.authorsName {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-1-size);
+  font-weight: 500;
+  font-family: var(--heading-1);
+}
+.AuthorsImg {
+  width: 500px;
+  position: relative;
+  height: auto;
+  object-fit: cover;
+  display: flex;
+}
+.bornin,
+.website,
+.genre {
+  width: 100%;
+  position: relative;
+  height: auto;
+  display: flex;
+  gap: var(--gap-xl);  
+}
+.heading{
+  width: 25%;
+  font-size: var(--paragragh-size);
+  font-weight: 600;
+}
+.textContainer {
+  position: relative;
+  height: auto;
+  width: calc(75% - 20px);
+}
+.text {
+  width: 100%;
+  line-height: 150%;
+  color: inherit;
+  text-decoration: none;
+}
+.authorsInfo {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  gap: var(--gap-6xs);
+}
+@media screen and (max-width:700px) {
+  .authorsInfo {
+    width: 100%;
+    padding: 0 10%;
+    gap: 15px;
+  }
+  .AuthorsImg {
+    width: 100%;
+    padding: 0 10%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .bornin,
+  .website,
+  .genre {
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+.a {
+  color: inherit;
+}
+.descriptionContainer,
+.thngTinTcGi {
+  display: flex;
+  justify-content: flex-start;
+}
+.descriptionContainer {
+  width: auto;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: justify;
+}
+.thngTinTcGi {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20%;
+  gap: var(--gap-31xl);
+  text-align: center;
+  font-size: var(--paragragh-size);
+  color: var(--color-black);
+  font-family: var(--paragragh);
+}
+@media screen and (max-width: 1000px) {
+  .thngTinTcGi {
+    padding: 0 10%;
+  }
+}
+.body,
+.tacgia {
+  overflow: hidden;
+}
+.body {
+  margin-top: 70px;
+  width: 100vw;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) 0 var(--padding-81xl);
+  gap: var(--gap-56xl);
+}
+@media screen and (max-width: 700px) {
+  .body {
+    margin-top: 50px;
+  }
+}
+.tacgia {
+  position: relative;
+}
+.tacgia,
+.tacgia.animate{
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}
+.tacgia{
+  background-color: var(--color-floralwhite);
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 1;
+}
